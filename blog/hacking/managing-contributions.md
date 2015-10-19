@@ -12,7 +12,7 @@ Here's a list of ways I am aware of to create, upload, edit, update and remove a
 
 * [ia command line interface](https://github.com/jjjake/internetarchive) - based on the python interface, great for managing lots of items and their metadata, powerful, easy to install and use, geeky, but not too geeky. Works on mac, pc and gnu/linux. I really like this tool. Open source.
 
-* other libraries and interfaces
+* other libraries and interfaces, such as @diffalot's gem at https://github.com/diffalot/archive
 
 * various desktop clients - can be easy to use, there have been many, they come, they go, commercial and open source projects
  
