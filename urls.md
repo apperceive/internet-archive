@@ -17,13 +17,13 @@
 https://archive.org/about/faqs.php#Item_page_management - FAQ (item page management and more)
 https://archive.org/about/faqs.php#Uploading_Content - FAQ - has file name restrictions/recommendations also mentions the 'test' collection - recommends pages kept below 1000 files or 25GB
 
-
 ## additional documentation
 - https://media.readthedocs.org/pdf/ia-wrapper/stable/ia-wrapper.pdf
 - http://ia-wrapper.readthedocs.org/en/latest/internetarchive.html
 - http://adellefrank.com/blog/how-to-upload-book-to-internet-archive - How to upload a scanned book to the Internet Archive
 - https://archive.org/post/149379/how-to-upload-book-scans - allow user to create a 'book' from flickr images - requires zip of TIFF, JPEG or JPEG2000 files - zip is indentifer_tif.zip with directory indentifer_tif and files indentifer_0001.tif, etc - see also https://archive.org/post/1033566/please-delete-items
-
+- https://openlibrary.org/developers/api
+- 
 ## github code projects
 - http://gist.leavesongs.com/jjjake/0a2bde52f59023637842
 - https://github.com/jjjake/internetarchive
@@ -36,7 +36,7 @@ https://archive.org/about/faqs.php#Uploading_Content - FAQ - has file name restr
 
 ## interesting items on archive.org
 - [CoverArt thumbs](https://archive.org/details/rival_pitchers_1402_thumb)
-
+- https://archive.org/details/BookReader
 
 ## some of my details pages (items)
 - https://archive.org/details/MarkusSandyRakuFortunesfromtheDigitalDojo - small video item (~2M .mov with .mp4 and .ogg transcodes, plus .gif)
