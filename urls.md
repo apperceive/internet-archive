@@ -9,7 +9,14 @@
 - http://blog.archive.org/2012/05/24/uploading-images-for-text-items/ - Uploading images for text items (update on *_images.zip format)
 - http://blog.archive.org/2012/10/30/getting-only-certain-formats-in-zip-files-from-items-new-feature/ - getting only certain formats in .zip files from items — new feature
 - https://archive.org/about/faqs.php#Collections - Collections
-- book reader - http://blog.archive.org/2010/12/10/2685/ - how embed book reader?
+- http://blog.archive.org/2010/12/10/2685/ - book reader - how embed book reader?
+- https://archive.org/editxml/@apperceptions - account edit
+- http://archive.org/account/s3.php - Get Your S3-Like API Keys
+- https://blog.archive.org/2013/07/04/metadata-api/ - Metadata API
+- https://archive.org/help/contrib-advanced.php - Advanced Use of the Contribution Engine - mentions that url to confirm/submit contribution after ftp is https://archive.org/services/contrib-submit.php?user_email=user@user.com&server=items-uploads.archive.org&dir=MyHomeMovie
+https://archive.org/about/faqs.php#Item_page_management - FAQ (item page management and more)
+https://archive.org/about/faqs.php#Uploading_Content - FAQ - has file name restrictions/recommendations also mentions the 'test' collection - recommends pages kept below 1000 files or 25GB
+
 
 ## additional documentation
 - https://media.readthedocs.org/pdf/ia-wrapper/stable/ia-wrapper.pdf
@@ -32,6 +39,7 @@
 
 
 ## some of my details pages (items)
+- https://archive.org/details/MarkusSandyRakuFortunesfromtheDigitalDojo - small video item (~2M .mov with .mp4 and .ogg transcodes, plus .gif)
 - https://archive.org/details/AliciasShoes
 - https://archive.org/details/apperceptions_flickr_data
 - https://archive.org/details/apperceptions_veracruz
@@ -44,37 +52,9 @@
 
 ## process this below into list above
 
-small video item (~2M .mov with .mp4 and .ogg transcodes, plus .gif)
-https://archive.org/details/MarkusSandyRakuFortunesfromtheDigitalDojo
 
 
-account edit
-https://archive.org/editxml/@apperceptions
 
-Get Your S3-Like API Keys
-http://archive.org/account/s3.php
-
-S3-Like API information.
-http://archive.org/help/abouts3.txt
-
-
-Metadata API
-https://blog.archive.org/2013/07/04/metadata-api/
-
-A python interface to archive.org
-https://github.com/jjjake/internetarchive
-
-Advanced Use of the Contribution Engine
-https://archive.org/help/contrib-advanced.php
-mentions that url to confirm/submit contribution after ftp is
-https://archive.org/services/contrib-submit.php?user_email=user@user.com&server=items-uploads.archive.org&dir=MyHomeMovie
-
-FAQ (item page management and more)
-https://archive.org/about/faqs.php#Item_page_management
-
-FAQ - has file name restrictions/recommendations also mentions the 'test' collection
-recommends pages kept below 1000 files or 25GB
-https://archive.org/about/faqs.php#Uploading_Content
 
 
 
