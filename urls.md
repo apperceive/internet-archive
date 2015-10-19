@@ -24,7 +24,7 @@ https://archive.org/images/glogo.jpg - IA logo
 - http://adellefrank.com/blog/how-to-upload-book-to-internet-archive - How to upload a scanned book to the Internet Archive
 - https://archive.org/post/149379/how-to-upload-book-scans - allow user to create a 'book' from flickr images - requires zip of TIFF, JPEG or JPEG2000 files - zip is indentifer_tif.zip with directory indentifer_tif and files indentifer_0001.tif, etc - see also https://archive.org/post/1033566/please-delete-items
 - https://openlibrary.org/developers/api
-- 
+
 ## github code projects
 - http://gist.leavesongs.com/jjjake/0a2bde52f59023637842
 - https://github.com/jjjake/internetarchive
