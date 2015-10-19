@@ -51,9 +51,6 @@ https://archive.org/images/glogo.jpg - IA logo
 - https://archive.org/details/@apperceptions
 - https://archive.org/details/@markus_sandy
 
-## process this below into list above
-
-
 
 
 
