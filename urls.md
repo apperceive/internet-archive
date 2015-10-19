@@ -16,6 +16,7 @@
 - https://archive.org/help/contrib-advanced.php - Advanced Use of the Contribution Engine - mentions that url to confirm/submit contribution after ftp is https://archive.org/services/contrib-submit.php?user_email=user@user.com&server=items-uploads.archive.org&dir=MyHomeMovie
 https://archive.org/about/faqs.php#Item_page_management - FAQ (item page management and more)
 https://archive.org/about/faqs.php#Uploading_Content - FAQ - has file name restrictions/recommendations also mentions the 'test' collection - recommends pages kept below 1000 files or 25GB
+https://archive.org/images/glogo.jpg - IA logo
 
 ## additional documentation
 - https://media.readthedocs.org/pdf/ia-wrapper/stable/ia-wrapper.pdf
