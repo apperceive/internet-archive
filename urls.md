@@ -30,6 +30,7 @@ https://archive.org/images/glogo.jpg - IA logo
 - https://github.com/jjjake/internetarchive
 - [IA Mine](https://github.com/jjjake/iamine) - a command line tool and Python 3 library for data mining the Internet Archive.
 - TODO: - papyromancer's rb work on github
+- https://github.com/pantsbuild/pex
 
 #### related services and sites
 - https://archive-it.org
@@ -38,6 +39,7 @@ https://archive.org/images/glogo.jpg - IA logo
 #### interesting items on archive.org
 - [CoverArt thumbs](https://archive.org/details/rival_pitchers_1402_thumb)
 - https://archive.org/details/BookReader
+- https://archive.org/details/ia-pex - ia binaries - This item contains binaries of the ia command line tool. "ia" is a command-line tool for interacting with the Internet Archive's various APIs and services. All binaries were built using https://github.com/pantsbuild/pex.
 
 #### some of my details pages (items)
 - https://archive.org/details/MarkusSandyRakuFortunesfromtheDigitalDojo - small video item (~2M .mov with .mp4 and .ogg transcodes, plus .gif)
