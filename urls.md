@@ -29,7 +29,7 @@ https://archive.org/images/glogo.jpg - IA logo
 - http://gist.leavesongs.com/jjjake/0a2bde52f59023637842
 - https://github.com/jjjake/internetarchive
 - [IA Mine](https://github.com/jjjake/iamine) - a command line tool and Python 3 library for data mining the Internet Archive.
-- TODO: - papyromancer's rb work on github
+- https://github.com/diffalot/archive
 - https://github.com/pantsbuild/pex
 
 #### related services and sites
