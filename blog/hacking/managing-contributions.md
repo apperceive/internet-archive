@@ -1,8 +1,8 @@
 #Hacking the Internet Archive - Managing Contributions
 
-When it comes to online content management, we've come a long way since the early days of videoblogging. In particular, the are quite a few tools to manage your [Internet Archive](archive.org) contributions. Some have always been there, others are new.
+When it comes to online content management, we've come a long way since the early days of videoblogging. In particular, there are now quite a few tools to manage your [Internet Archive](http://archive.org) contributions and many old ones have changed.
 
-Here's a list of ways I am aware of to manage archive.org items:
+Here's a list of ways I am aware of to manage (upload, edit, update, remove, etc) archive.org items (aka details pages):
 
 * FTP - use tools like filezilla or cyberduck to manage your content. No longer used for downloading and it appears that <a href="https://archive.org/post/1041762/publish-items-uploaded-using-ftp-command">uploading may no longer be supported</a>. I have yet to find an official announcement of that yet.
 
