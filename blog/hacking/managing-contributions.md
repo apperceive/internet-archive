@@ -1,6 +1,6 @@
 #Hacking the Internet Archive - Managing Contributions
 
-When it comes to online content management, we've come a long way since the early days of videoblogging. In particular, the are quite a few tools to manage your Internet Archive contributions. Some have always been there, others are new.
+When it comes to online content management, we've come a long way since the early days of videoblogging. In particular, the are quite a few tools to manage your [Internet Archive](archive.org) contributions. Some have always been there, others are new.
 
 Here's a list of ways I am aware of to manage archive.org items:
 
