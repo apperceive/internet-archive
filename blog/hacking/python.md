@@ -15,7 +15,6 @@ On my Windows 7 box, I installed python via the python.org windows installer, wh
 On windows, type 'py' to run python. On 'mac', type python3. Just type 'python' on Ubuntu. In all cases, you should see something like this:
 
 [<img src='http://2.bp.blogspot.com/-DqKnvmNVodA/ViZbFP20lrI/AAAAAAAAAXA/yrtV-SQDTaM/s320/Capture.PNG' />](http://2.bp.blogspot.com/-DqKnvmNVodA/ViZbFP20lrI/AAAAAAAAAXA/yrtV-SQDTaM/s1600/Capture.PNG)
-![http://2.bp.blogspot.com/-DqKnvmNVodA/ViZbFP20lrI/AAAAAAAAAXA/yrtV-SQDTaM/s320/Capture.PNG]
 
 
 
