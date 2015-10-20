@@ -6,7 +6,7 @@ Here's a list of ways I am aware of to create, upload, edit, update and remove a
 
 * FTP - use tools like filezilla or cyberduck to manage your content. No longer used for downloading and it appears that <a href="https://archive.org/post/1041762/publish-items-uploaded-using-ftp-command">uploading may no longer be supported</a>. I have yet to find an official announcement of that yet.
 
-* [www.archive.org] - web forms to manage your content and your metadata. These forms have gotten easier to use over time and allow you to do lots of cool things. On the other hand, I hate forms.
+* [www.archive.org](http://www.archive.org) - web forms to manage your content and your metadata. These forms have gotten easier to use over time and allow you to do lots of cool things. On the other hand, I hate forms.
 
 * [s3.archive.org](http://archive.org/help/abouts3.txt) - a powerful interface similar to the Amazon web service. For the truly geeky at heart. &nbsp;Mainly useful to programmers. &nbsp;Not so much code as a standard to make calls against using tools and libraries like 'curl'.<br />Python interface - built on s3.archive.org, used with curl and programming languages, powerful but very geeky. Mainly for programmers, but can be used at a higher level to make cool scripts or use within other applications. Also a great way to learn about the internal working of the Internet Archive and the Python programming language.
 
