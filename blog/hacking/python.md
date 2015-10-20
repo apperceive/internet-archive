@@ -1,4 +1,4 @@
-<a href="http://python.org">Python</a> is a popular programming language, used in many situations these days.
+[Python](http://python.org) is a popular programming language, used in many situations these days.
 
 Some wonderful folks have created a powerful command line interface to the Internet Archive that is built using Python.
 
@@ -14,7 +14,9 @@ On my Windows 7 box, I installed python via the python.org windows installer, wh
 
 On windows, type 'py' to run python. On 'mac', type python3. Just type 'python' on Ubuntu. In all cases, you should see something like this:
 
-<div class="separator" style="clear: both; text-align: center;"><a href="http://2.bp.blogspot.com/-DqKnvmNVodA/ViZbFP20lrI/AAAAAAAAAXA/yrtV-SQDTaM/s1600/Capture.PNG" imageanchor="1" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img border="0" src="http://2.bp.blogspot.com/-DqKnvmNVodA/ViZbFP20lrI/AAAAAAAAAXA/yrtV-SQDTaM/s320/Capture.PNG" /></a></div>
+[<img src='http://2.bp.blogspot.com/-DqKnvmNVodA/ViZbFP20lrI/AAAAAAAAAXA/yrtV-SQDTaM/s320/Capture.PNG' />](http://2.bp.blogspot.com/-DqKnvmNVodA/ViZbFP20lrI/AAAAAAAAAXA/yrtV-SQDTaM/s1600/Capture.PNG)
+![http://2.bp.blogspot.com/-DqKnvmNVodA/ViZbFP20lrI/AAAAAAAAAXA/yrtV-SQDTaM/s320/Capture.PNG]
+
 
 
 
